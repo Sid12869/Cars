@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sid12
+Build-Jdk: 10.0.1
+Implementation-Title: Cars-api-Data
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cars
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Cars-api-Data
+Created-By: Maven Integration for Eclipse
+
